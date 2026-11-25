@@ -1,0 +1,106 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Global default-deny safety net
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isValidId(id) {
+      return id is string &&
+             id.size() >= 1 &&
+             id.size() <= 128 &&
+             id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function incoming() {
+      return request.resource.data;
+    }
+
+    function existing() {
+      return resource.data;
+    }
+
+    function isValidCustomer(data) {
+      return data.userId is string &&
+             data.userId.size() >= 1 &&
+             data.userId.size() <= 128 &&
+             data.userId == request.auth.uid &&
+             data.name is string &&
+             data.name.size() >= 2 &&
+             data.name.size() <= 100 &&
+             data.phone is string &&
+             data.phone.size() == 10 &&
+             data.phone.matches('^[0-9]{10}$') &&
+             data.dob is string &&
+             data.dob.size() >= 8 &&
+             data.dob.size() <= 20 &&
+             data.email is string &&
+             data.email.size() >= 5 &&
+             data.email.size() <= 120 &&
+             data.email.matches('^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$') &&
+             data.address is string &&
+             data.address.size() >= 5 &&
+             data.address.size() <= 300 &&
+             data.createdAt is timestamp &&
+             data.createdAt <= request.time &&
+             (!('updatedAt' in data) || (data.updatedAt is timestamp && data.updatedAt <= request.time));
+    }
+
+    match /customers/{customerId} {
+      allow get: if isSignedIn() &&
+                    isValidId(customerId) &&
+                    existing().userId == request.auth.uid;
+
+      allow list: if isSignedIn() &&
+                     existing().userId == request.auth.uid;
+
+      allow create: if isSignedIn() &&
+                       isValidId(customerId) &&
+                       incoming().keys().hasAll([
+                         'userId',
+                         'name',
+                         'phone',
+                         'dob',
+                         'email',
+                         'address',
+                         'createdAt'
+                       ]) &&
+                       incoming().keys().hasOnly([
+                         'userId',
+                         'name',
+                         'phone',
+                         'dob',
+                         'email',
+                         'address',
+                         'createdAt',
+                         'updatedAt'
+                       ]) &&
+                       isValidCustomer(incoming());
+
+      allow update: if isSignedIn() &&
+                       isValidId(customerId) &&
+                       isValidCustomer(incoming()) &&
+                       existing().userId == request.auth.uid &&
+                       incoming().userId == existing().userId &&
+                       incoming().createdAt == existing().createdAt &&
+                       incoming().diff(existing()).affectedKeys().hasOnly([
+                         'name',
+                         'phone',
+                         'dob',
+                         'email',
+                         'address',
+                         'updatedAt'
+                       ]);
+
+      allow delete: if isSignedIn() &&
+                       isValidId(customerId) &&
+                       existing().userId == request.auth.uid;
+    }
+  }
+}

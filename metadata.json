@@ -1,0 +1,6 @@
+{
+  "name": "Car Rental",
+  "description": "Car Rental Customer Registration app with Firebase Authentication and Cloud Firestore to register and manage customer profiles in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

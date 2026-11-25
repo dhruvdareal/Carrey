@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Car Rental</string>
+    <string name="app_subtitle">Customer Registration Portal</string>
+
+    <!-- Auth Screen -->
+    <string name="auth_headline">Car Rental Desk</string>
+    <string name="auth_description">Register car rental customers, validate contact records, and sync your directory in real time with Cloud Firestore.</string>
+    <string name="auth_sign_in_google">Sign in with Google</string>
+    <string name="auth_signing_in">Signing in…</string>
+    <string name="auth_feature_sync">Real-time Cloud Firestore customer registry</string>
+    <string name="auth_feature_validation">Instant phone, email, and date of birth checks</string>
+    <string name="auth_feature_secure">Protected with Google Sign-In and account isolation</string>
+    <string name="auth_hero_content_desc">Car rental coastal road illustration</string>
+
+    <!-- Navigation & Top Bar -->
+    <string name="nav_register">Register</string>
+    <string name="nav_customers">Customers</string>
+    <string name="action_logout">Log out</string>
+    <string name="logout_dialog_title">Sign out?</string>
+    <string name="logout_dialog_message">You will be returned to the sign-in screen. Your customer records stay safely saved in Firestore.</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+
+    <!-- Customer Form Screen -->
+    <string name="form_title">New Customer Registration</string>
+    <string name="form_title_edit">Edit Customer Profile</string>
+    <string name="form_subtitle">Enter customer personal and contact details below.</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="hint_full_name">e.g. Aarav Sharma</string>
+    <string name="label_phone">Phone Number (10 digits)</string>
+    <string name="hint_phone">e.g. 9876543210</string>
+    <string name="label_dob">Date of Birth</string>
+    <string name="hint_dob">Tap to select date (DD/MM/YYYY)</string>
+    <string name="label_email">Email Address</string>
+    <string name="hint_email">e.g. aarav.sharma@example.com</string>
+    <string name="label_address">Residential Address</string>
+    <string name="hint_address">House no, street, city, state</string>
+    <string name="action_submit_customer">Register Customer</string>
+    <string name="action_update_customer">Update Customer</string>
+    <string name="action_clear_form">Clear</string>
+    <string name="action_cancel_edit">Cancel Edit</string>
+    <string name="dob_picker_title">Select Date of Birth</string>
+    <string name="dob_picker_confirm">Select</string>
+
+    <!-- Validation Messages -->
+    <string name="error_name_required">Full name is required (at least 2 characters).</string>
+    <string name="error_phone_invalid">Enter a valid 10-digit phone number.</string>
+    <string name="error_dob_required">Please select a date of birth.</string>
+    <string name="error_email_invalid">Enter a valid email address.</string>
+    <string name="error_address_required">Address must be at least 5 characters.</string>
+
+    <!-- Customer List Screen -->
+    <string name="list_title">Registered Customers</string>
+    <string name="list_search_hint">Search by name, phone, or email…</string>
+    <string name="action_add_dummy">Add Dummy Data</string>
+    <string name="adding_dummy_data">Adding 5 samples…</string>
+    <string name="empty_customers_title">No customers registered yet</string>
+    <string name="empty_customers_subtitle">Use the Register tab to add your first customer, or tap Add Dummy Data to load 5 sample records.</string>
+    <string name="empty_search_title">No matching customers</string>
+    <string name="empty_search_subtitle">Try searching with a different name, phone number, or email.</string>
+    <string name="delete_dialog_title">Delete customer?</string>
+    <string name="delete_dialog_message">Remove %1$s permanently from Firestore? This cannot be undone.</string>
+    <string name="error_load_customers">Unable to load customers</string>
+    <string name="action_retry">Retry</string>
+</resources>

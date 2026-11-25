@@ -1,0 +1,1420 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R] /Count 14 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 7566 >>
+stream
+0.075 0.376 0.729 rg 44 697.89 507.28 92 re f
+1 1 1 rg BT /F2 18 Tf 62 757.89 Td (CAR RENTAL CUSTOMER REGISTRATION) Tj ET
+0.85 0.92 1 rg BT /F1 11 Tf 62 737.89 Td (Complete DBMS PBL Viva & Presentation Study Guide \(Simple Hinglish\)) Tj ET
+0.78 0.88 1 rg BT /F1 9 Tf 62 717.89 Td (Kotlin | Jetpack Compose \(Material 3\) | Firebase Auth | Cloud Firestore | 50 Viva Q&As + Cheat Sheet) Tj ET
+0.91 0.95 0.99 rg 44 651.89 507.28 24 re f
+0.075 0.376 0.729 rg 44 651.89 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 658.89 Td (1. PROJECT OVERVIEW) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 627.89 Td (App Kya Hai?) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 610.39 Td ("Car Rental" ek real-time Android application hai jo car rental agencies ke staff ko customers ki) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 596.89 Td (personal aur contact details \(Name, Phone Number, Date of Birth, Email, Address\) register aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 583.39 Td (manage karne mein madad karta hai. Saara data Google ke Cloud Firestore database mein live save) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 569.89 Td (hota hai aur sirf authenticated user hi apne records dekh, edit ya delete kar sakta hai.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 547.89 Td (Problem Kya Solve Karta Hai?) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 530.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 530.59 Td (Paper Register Khatam: Pehle car rental offices paper registers ya Excel sheets mein customer) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 517.59 Td (details likhte the - jo ghum sakti thi, phat sakti thi, ya search karne mein bahut time lagta) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 504.59 Td (tha.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 489.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 489.09 Td (Galat Data Rokna: Register mein koi 8-digit phone ya galat email likh de toh pata nahi chalta.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 476.09 Td (Hamare app mein strict validation hai \(phone exact 10 digits, valid email, empty field block\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 460.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 460.59 Td (Live Cloud Backup & Fast Search: Koi bhi customer add, edit ya delete karo - 1 second mein cloud) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 447.59 Td (mein save aur live list mein update ho jata hai, aur search bar se turant mil jata hai.) Tj ET
+0.95 0.97 1.0 rg 44 242.39 507.28 199 re f
+0.78 0.87 0.96 RG 0.8 w 44 242.39 507.28 199 re S
+0.075 0.376 0.729 rg BT /F2 9.8 Tf 56 425.39 Td (1-Minute Presentation Speech \(Yaad Karke Bol Dena\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 410.39 Td ("Good morning/afternoon Sir/Ma'am. Mere DBMS PBL project ka naam hai Car Rental Customer) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 397.39 Td (Registration, jo ek Android-based Cloud DBMS application hai. Normally chhoti aur medium car) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 384.39 Td (rental agencies aaj bhi paper registers ya spreadsheets use karti hain, jisme data loss, galat) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 371.39 Td (phone/email entries, aur slow searching ki problem hoti hai. Is problem ko solve karne ke liye) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 358.39 Td (maine ye Android app banaya hai Kotlin, Jetpack Compose \(Material 3\), Firebase Authentication,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 345.39 Td (aur Cloud Firestore use karke. Is app mein 3 main modules hain: pehla Google Sign-In) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 332.39 Td (Authentication security ke liye; doosra Customer Registration Form jisme Name, 10-digit Phone,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 319.39 Td (Date Picker se DOB, Email, aur Address validate hokar Firestore ke customers collection mein) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 306.39 Td (save hote hain; aur teesra Real-Time Customer List, jisme saare customers live cards ke form) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 293.39 Td (mein dikhte hain - saath mein Search, Edit, Delete, aur testing ke liye Add Dummy Data button jo) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 280.39 Td (5 Indian sample customers insert karta hai. Database level par zero-trust Firestore Security) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 267.39 Td (Rules lagaye hain taaki sirf logged-in owner hi apna data read/write kar sake. Thank you, ab) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 254.39 Td (main live demo dikhata/dikhati hu.") Tj ET
+0.91 0.95 0.99 rg 44 202.39 507.28 24 re f
+0.075 0.376 0.729 rg 44 202.39 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 209.39 Td (2. TECH STACK \(Kya Hai, Kyu Use Hua, Alternatives\)) Tj ET
+0.075 0.376 0.729 rg 44 173.39 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 173.39 507.28 19 re S
+1 1 1 rg BT /F2 8.2 Tf 49 180.19 Td (Technology) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 173.39 m 150.5288 192.39 l S
+1 1 1 rg BT /F2 8.2 Tf 155.5288 180.19 Td (Kya Hai \(Simple\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 173.39 m 277.3488 192.39 l S
+1 1 1 rg BT /F2 8.2 Tf 282.3488 180.19 Td (Is Project Mein Kyu Use Hua?) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 173.39 m 449.82399999999996 192.39 l S
+1 1 1 rg BT /F2 8.2 Tf 454.82399999999996 180.19 Td (Alternatives) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 132.39 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 161.19 Td (Kotlin \(2.4.21\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 132.39 m 150.5288 173.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 161.19 Td (Android ki official modern) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 150.19 Td (programming language.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 132.39 m 277.3488 173.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 161.19 Td (Concise code, null-safety \(kam) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 150.19 Td (crash\), Jetpack Compose sirf Kotlin) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 139.19 Td (mein chalta hai.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 132.39 m 449.82399999999996 173.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 161.19 Td (Java, Dart \(Flutter\)) Tj ET
+0.965 0.98 1.0 rg 44 91.38999999999999 507.28 41 re f
+0.82 0.87 0.93 RG 0.5 w 44 91.38999999999999 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 120.18999999999998 Td (Jetpack Compose \(BoM) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 109.18999999999998 Td (2024.09.00\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 91.38999999999999 m 150.5288 132.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 120.18999999999998 Td (Android ka modern) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 109.18999999999998 Td (declarative UI toolkit) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 98.18999999999998 Td (\(XML nahi lagta\).) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 91.38999999999999 m 277.3488 132.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 120.18999999999998 Td (Kam code mein fast, reactive aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 109.18999999999998 Td (clean UI \(Form, Cards, DatePicker\).) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 91.38999999999999 m 449.82399999999996 132.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 120.18999999999998 Td (XML Layouts,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 109.18999999999998 Td (Flutter, React) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 98.18999999999998 Td (Native) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 1 of 14) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 12226 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.82 0.87 0.93 RG 0.5 w 44 748.89 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 777.6899999999999 Td (Material Design 3) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 748.89 m 150.5288 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 777.6899999999999 Td (Google ka latest UI design) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 766.6899999999999 Td (system.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 748.89 m 277.3488 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 777.6899999999999 Td (Blue-and-white theme, rounded cards,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 766.6899999999999 Td (DatePickerDialog, NavigationBar) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 755.6899999999999 Td (ready-made milte hain.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 748.89 m 449.82399999999996 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 777.6899999999999 Td (Material 2, Custom) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 766.6899999999999 Td (UI) Tj ET
+0.965 0.98 1.0 rg 44 707.89 507.28 41 re f
+0.82 0.87 0.93 RG 0.5 w 44 707.89 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 736.6899999999999 Td (Firebase Auth \(BoM) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 725.6899999999999 Td (35.1.0\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 707.89 m 150.5288 748.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 736.6899999999999 Td (Google ki cloud user login) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 725.6899999999999 Td (& session service.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 707.89 m 277.3488 748.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 736.6899999999999 Td (Bina apna login server banaye secure) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 725.6899999999999 Td (auth aur unique userId \(uid\) milta) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 714.6899999999999 Td (hai.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 707.89 m 449.82399999999996 748.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 736.6899999999999 Td (Auth0, Supabase) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 725.6899999999999 Td (Auth, Custom JWT) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 666.89 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 695.6899999999999 Td (Cloud Firestore \(BoM) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 684.6899999999999 Td (35.1.0\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 666.89 m 150.5288 707.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 695.6899999999999 Td (Google ka cloud-based) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 684.6899999999999 Td (NoSQL document database.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 666.89 m 277.3488 707.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 695.6899999999999 Td (Real-time live sync \(.snapshots\(\)\),) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 684.6899999999999 Td (server timestamps, offline cache,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 673.6899999999999 Td (strong security rules.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 666.89 m 449.82399999999996 707.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 695.6899999999999 Td (MySQL + REST API,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 684.6899999999999 Td (MongoDB, Room) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 673.6899999999999 Td (\(local\)) Tj ET
+0.965 0.98 1.0 rg 44 625.89 507.28 41 re f
+0.82 0.87 0.93 RG 0.5 w 44 625.89 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 654.6899999999999 Td (Credential Manager) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 643.6899999999999 Td (\(1.5.0\) + GoogleId) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 632.6899999999999 Td (\(1.1.1\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 625.89 m 150.5288 666.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 654.6899999999999 Td (Android ka latest official) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 643.6899999999999 Td (Google Sign-In API.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 625.89 m 277.3488 666.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 654.6899999999999 Td (Android 14/15/16 par smooth) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 643.6899999999999 Td (bottom-sheet Google login \(purana) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 632.6899999999999 Td (GoogleSignInClient deprecated hai\).) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 625.89 m 449.82399999999996 666.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 654.6899999999999 Td (FirebaseUI Auth,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 643.6899999999999 Td (OAuth WebView) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 584.89 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 613.6899999999999 Td (ViewModel & StateFlow) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 602.6899999999999 Td (\(Lifecycle 2.8.7\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 584.89 m 150.5288 625.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 613.6899999999999 Td (Screen ka state hold karne) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 602.6899999999999 Td (wala MVVM controller.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 584.89 m 277.3488 625.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 613.6899999999999 Td (Screen rotate hone par data gayab) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 602.6899999999999 Td (nahi hota aur UI live updates) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 591.6899999999999 Td (dikhata hai.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 584.89 m 449.82399999999996 625.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 613.6899999999999 Td (LiveData, RxJava) Tj ET
+0.965 0.98 1.0 rg 44 543.89 507.28 41 re f
+0.82 0.87 0.93 RG 0.5 w 44 543.89 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 572.6899999999999 Td (Navigation Compose) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 561.6899999999999 Td (\(2.8.9\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 543.89 m 150.5288 584.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 572.6899999999999 Td (Screens ke beech switch) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 561.6899999999999 Td (karne ki library.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 543.89 m 277.3488 584.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 572.6899999999999 Td (Register Form \(customer_form\) aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 561.6899999999999 Td (Customer List \(customer_list\) tabs) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 550.6899999999999 Td (switch karne ke liye.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 543.89 m 449.82399999999996 584.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 572.6899999999999 Td (Fragment Navigation,) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 561.6899999999999 Td (Manual state) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 491.89 507.28 52 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 531.6899999999999 Td (Gradle Kotlin DSL) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 520.6899999999999 Td (\(AGP 9.1.1\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 150.5288 491.89 m 150.5288 543.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 531.6899999999999 Td (Android project compile) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 520.6899999999999 Td (aur APK build karne wala) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 155.5288 509.68999999999994 Td (tool.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 277.3488 491.89 m 277.3488 543.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 531.6899999999999 Td (Libraries download karta hai) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 520.6899999999999 Td (\(libs.versions.toml\),) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 509.68999999999994 Td (google-services.json padhta hai aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 282.3488 498.68999999999994 Td (APK banata hai.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 449.82399999999996 491.89 m 449.82399999999996 543.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 454.82399999999996 531.6899999999999 Td (Maven, Bazel) Tj ET
+0.91 0.95 0.99 rg 44 451.89 507.28 24 re f
+0.075 0.376 0.729 rg 44 451.89 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 458.89 Td (3. PROJECT FOLDER STRUCTURE \(Har File Ka Exact Kaam\)) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 427.89 Td (Root & Gradle Configuration Files) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 410.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 410.59 Td (build.gradle.kts \(Root\): Project-level plugins \(Android, Compose, KSP, Secrets, Google Services\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 397.59 Td (declare karta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 382.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 382.09 Td (settings.gradle.kts: Project ka naam \(rootProject.name = "Car Rental"\) aur :app module include) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 369.09 Td (karta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 353.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 353.59 Td (gradle/libs.versions.toml: Version Catalog: saari libraries aur unke exact versions ek) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 340.59 Td (centralized file mein.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 325.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 325.09 Td (app/build.gradle.kts: App-level config: namespace = "com.example", applicationId =) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 312.09 Td ("com.aistudio.carrental.rvkxmp", minSdk = 24, targetSdk = 36, aur Firebase/Compose dependencies.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 296.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 296.59 Td (app/google-services.json: Firebase bridge file \(project ID, OAuth Web Client ID, SHA-1 hash, API) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 283.59 Td (key\) jo app ko Firebase project se jodti hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 268.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 268.09 Td (firestore.rules: Database security rules file jo decide karti hai kaun customers collection ko) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 255.08999999999997 Td (read/write/edit/delete kar sakta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 239.58999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 239.58999999999997 Td (firebase-blueprint.json & firestore.test.js: Database schema blueprint aur automated security) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 226.58999999999997 Td (rules test suite \(emulator port 8085 par 4/4 tests pass\).) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 206.39 Td (Android Resources \(app/src/main/res/ & Manifest\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 189.08999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 189.08999999999997 Td (AndroidManifest.xml: App ka identity card: INTERNET aur ACCESS_NETWORK_STATE permissions, custom) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 176.08999999999997 Td (launcher icon, app_name, aur MainActivity declaration.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 160.58999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 160.58999999999997 Td (res/values/strings.xml: Saare user-facing text labels \(Car Rental, form labels, validation error) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 147.58999999999997 Td (messages\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 132.08999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 132.08999999999997 Td (res/values/firebase_applet_config.xml: Provisioned Enterprise Cloud Firestore database ka naam) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 119.08999999999999 Td (\(firestore_database_id\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 103.58999999999999 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 103.58999999999999 Td (res/font/ & res/drawable/ & res/mipmap-*: Bundled Plus Jakarta Sans & Inter fonts, custom) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 90.58999999999999 Td (blue-and-white Car adaptive launcher icon, aur login hero banner image.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 70.38999999999999 Td (Kotlin Source Code \(app/src/main/java/com/example/\)) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 2 of 14) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 7340 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 780.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 780.59 Td (MainActivity.kt: App entry point. enableEdgeToEdge\(\), AppNavigation\(\) auth gating, ViewModel) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 767.59 Td (creation with firestore_database_id, TopAppBar + Logout dialog, adaptive) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 754.59 Td (NavigationBar/NavigationRail, aur Compose NavHost.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 739.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 739.09 Td (auth/AuthManager.kt: Google Sign-In logic: attemptAutoSignIn\(\) \(silent startup check\),) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 726.09 Td (onGoogleSignInClicked\(\) \(Google account picker bottom sheet\), aur NonCancellable signOut\(\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 710.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 710.59 Td (data/Customer.kt: Firestore document ka Kotlin data class \(@Keep, @IgnoreExtraProperties,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 697.59 Td (@DocumentId, @ServerTimestamp\) aur SampleCustomers.defaultList \(5 Indian dummy records\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 682.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 682.09 Td (data/CustomerRepository.kt: Database layer: observeCustomers\(\) \(live .snapshots\(\) Flow\),) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 669.09 Td (addCustomer\(\), updateCustomer\(\), deleteCustomer\(\), aur addDummyCustomers\(\) \(atomic WriteBatch\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 653.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 653.59 Td (data/FirestoreErrorHandler.kt: Structured JSON error logger jo har Firestore failure ko) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 640.59 Td (Log.e\("FirestoreError", ...\) mein log karta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 625.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 625.09 Td (ui/viewmodel/CustomerViewModel.kt: UI aur Repository ke beech ka bridge: form state, validation) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 612.09 Td (logic, search query, snackbar messages, aur CustomersUiState \(Loading/Success/Error\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 596.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 596.59 Td (ui/screens/AuthScreen.kt: Screen 1 \(Login\): Car rental hero artwork, car emblem, highlights,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 583.59 Td (loading spinner, error banner, aur Sign in with Google button.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 568.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 568.09 Td (ui/screens/CustomerFormScreen.kt: Screen 2 \(Form\): Name, Phone \(10-digit counter\), DOB \(Material) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 555.09 Td (3 DatePickerDialog\), Email, Address fields, validation errors, Clear & Submit/Update buttons.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 539.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 539.59 Td (ui/screens/CustomerListScreen.kt: Screen 3 \(List\): Live count banner, Add Dummy Data button,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 526.59 Td (Search bar, rounded Customer Cards \(Edit & Delete dialogs\), aur Empty/Error states.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 511.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 511.09 Td (ui/theme/Color.kt, Type.kt, Theme.kt: Royal Blue \(#1360BA\) & Crisp White \(#FFFFFF\) color palette,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 498.09 Td (bundled typography, aur rounded CarRentalShapes.) Tj ET
+0.91 0.95 0.99 rg 44 461.89 507.28 24 re f
+0.075 0.376 0.729 rg 44 461.89 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 468.89 Td (4. APP FLOW STEP-BY-STEP & FLOWCHART) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 442.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 442.59 Td (Step 1 - App Launch: MainActivity.onCreate\(\) -> enableEdgeToEdge\(\) -> CarRentalTheme ->) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 429.59 Td (AppNavigation\(\) chalta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 414.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 414.09 Td (Step 2 - Auth Check: AppNavigation Firebase.auth.authStateFlow\(\) listen karta hai. Agar) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 401.09 Td (currentUser == null hai toh Screen 1 \(AuthScreen\) khulta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 385.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 385.59 Td (Step 3 - Google Sign-In: AuthScreen khulte hi attemptAutoSignIn\(\) silent check karta hai. User) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 372.59 Td (button tap kare toh onGoogleSignInClicked\(\) -> CredentialManager bottom sheet -> Google ID Token) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 359.59 Td (-> Firebase.auth.signInWithCredential\(\) -> Login complete.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 344.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 344.09 Td (Step 4 - Dashboard & DB Init: currentUser non-null hote hi key\(user.uid\) ke andar) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 331.09 Td (CarRentalMainScaffold khulta hai. viewModelFactory R.string.firestore_database_id padhkar) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 318.09 Td (FirebaseFirestore.getInstance\(databaseId\) banata hai aur CustomerRepository + CustomerViewModel) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 305.09 Td (start hote hain.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 289.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 289.59 Td (Step 5 - Customer Registration \(Screen 2\): User form bharta hai -> Submit dabane par) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 276.59 Td (CustomerViewModel.submitCustomer\(\) saare 5 fields validate karta hai -> valid hone par) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 263.59 Td (CustomerRepository.addCustomer\(\) Firestore customers collection mein save karta hai -> Snackbar) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 250.58999999999997 Td (dikhta hai aur app List tab par switch ho jata hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 235.08999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 235.08999999999997 Td (Step 6 - Live Directory \(Screen 3\): CustomerRepository.observeCustomers\(uid\) ka .snapshots\(\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 222.08999999999997 Td (listener live updates laata hai -> naya customer turant card bankar dikhta hai. Add Dummy Data 5) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 209.08999999999997 Td (Indian records batch-insert karta hai; Edit/Delete live sync hote hain.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 193.58999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 193.58999999999997 Td (Step 7 - Logout: TopBar Logout icon -> AlertDialog confirm -> AuthManager.signOut\(\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 180.58999999999997 Td (\(NonCancellable\) -> credentials clear + Firebase.auth.signOut\(\) -> wapas AuthScreen.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 160.39 Td (Text Flowchart \(Presentation / Viva Mein Draw Karne Ke Liye\)) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 3 of 14) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 7324 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.95 0.96 0.98 rg 44 553.39 507.28 236.5 re f
+0.82 0.86 0.91 RG 0.6 w 44 553.39 507.28 236.5 re S
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 774.79 Td ([App Open] -> MainActivity.onCreate\(\) -> AppNavigation \(Firebase.auth.authStateFlow\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 764.29 Td (   |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 753.79 Td (   +-- \(currentUser == null\) --> [Screen 1: AuthScreen]) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 743.29 Td (   |                                |-> attemptAutoSignIn\(\) / onGoogleSignInClicked\(\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 732.79 Td (   |                                |-> CredentialManager -> Google ID Token -> Firebase Auth) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 722.29 Td (   |                                +-> Login Success \(currentUser != null\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 711.79 Td (   |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 701.29 Td (   +-- \(currentUser != null\) --> [CarRentalMainScaffold] \(TopBar + Bottom Nav + Logout\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 690.79 Td (                                    |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 680.29 Td (        +---------------------------+---------------------------+) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 669.79 Td (        v                                                       v) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 659.29 Td ([Screen 2: CustomerFormScreen]                       [Screen 3: CustomerListScreen]) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 648.79 Td (Route: "customer_form"                               Route: "customer_list") Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 638.29 Td ( |-> Name, Phone, DOB \(DatePicker\), Email, Address    |-> Live: observeCustomers\(uid\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 627.79 Td ( |-> CustomerViewModel.submitCustomer\(\)               |-> Search Bar \(in-memory filter\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 617.29 Td ( |     |-- Invalid -> Inline red field errors         |-> Add Dummy Data -> WriteBatch\(5\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 606.79 Td ( |     +-- Valid -> CustomerRepository.addCustomer\(\)  |-> Edit -> opens Screen 2 prefilled) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 596.29 Td ( |                   -> Firestore 'customers'         |-> Delete -> AlertDialog -> delete\(\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 585.79 Td ( +----------> Auto-switches to Customer List <--------+) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 575.29 Td (                                    |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 564.79 Td (                         [Logout Tap] -> AlertDialog -> AuthManager.signOut\(\) -> AuthScreen) Tj ET
+0.91 0.95 0.99 rg 44 515.39 507.28 24 re f
+0.075 0.376 0.729 rg 44 515.39 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 522.39 Td (5. HAR SCREEN KA CODE EXPLANATION \(Line-by-Line\)) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 491.39 Td (A. Screen 1 - Login & Logout \(AuthScreen.kt & AuthManager.kt\)) Tj ET
+0.95 0.96 0.98 rg 44 413.39 507.28 70 re f
+0.82 0.86 0.91 RG 0.6 w 44 413.39 507.28 70 re S
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 467.99 Td (val signInOption = GetSignInWithGoogleOption.Builder\(serverClientId = clientId\).build\(\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 457.19 Td (val request = GetCredentialRequest.Builder\(\).addCredentialOption\(signInOption\).build\(\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 446.39 Td (val credential = credentialManager.getCredential\(activity, request\).credential) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 435.59 Td (val token = GoogleIdTokenCredential.createFrom\(credential.data\).idToken) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 424.78999999999996 Td (Firebase.auth.signInWithCredential\(GoogleAuthProvider.getCredential\(token, null\)\).await\(\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 396.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 396.09 Td (Line 1-2: default_web_client_id ke saath Google Sign-In option aur single-option) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 383.09 Td (GetCredentialRequest banata hai \(Android API 36 par sheet responsive rakhne ke liye 1 option per) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 370.09 Td (request rakhte hain\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 354.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 354.59 Td (Line 3-4: Android ka official Google Account picker bottom sheet kholta hai aur selected account) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 341.59 Td (ka signed Google ID Token nikalta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 326.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 326.09 Td (Line 5: Token Firebase Auth ko dekar user login complete karta hai. User cancel kare toh) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 313.09 Td (GetCredentialCancellationException catch karke loading spinner band kar dete hain.) Tj ET
+0.95 0.96 0.98 rg 44 247.69 507.28 59.2 re f
+0.82 0.86 0.91 RG 0.6 w 44 247.69 507.28 59.2 re S
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 291.49 Td (withContext\(NonCancellable\) {) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 280.69 Td (    try { credentialManager.clearCredentialState\(ClearCredentialStateRequest\(\)\) }) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 269.89 Td (    finally { Firebase.auth.signOut\(\) }) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 259.09 Td (}) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 230.39 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 230.39 Td (Logout Logic: NonCancellable ensure karta hai ki screen close hote waqt coroutine cancel na ho) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 217.39 Td (aur Credential Manager + Firebase dono cleanly sign out ho jayein.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 197.19 Td (B. Screen 2 - Validation, Date Picker & Save \(CustomerFormScreen.kt / ViewModel / Repo\)) Tj ET
+0.95 0.96 0.98 rg 44 65.19 507.28 124 re f
+0.82 0.86 0.91 RG 0.6 w 44 65.19 507.28 124 re S
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 173.79 Td (val phoneError = when {) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 162.98999999999998 Td (    trimmedPhone.isEmpty\(\) -> "Phone number is required.") Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 152.18999999999997 Td (    !CustomerRepository.PHONE_REGEX.matches\(trimmedPhone\) -> "Phone must be 10 digits.") Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 141.38999999999996 Td (    else -> null) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 130.58999999999995 Td (}) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 119.78999999999995 Td (val emailError = when {) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 108.98999999999995 Td (    trimmedEmail.isEmpty\(\) -> "Email address is required.") Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 98.18999999999996 Td (    !CustomerRepository.EMAIL_REGEX.matches\(trimmedEmail\) -> "Enter a valid email address.") Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 87.38999999999996 Td (    else -> null) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 76.58999999999996 Td (}) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 4 of 14) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 7269 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 780.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 780.59 Td (Validation: Har field trim hokar check hota hai: Name min 2 chars, Phone exact 10 digits) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 767.59 Td (\(^[0-9]{10}$\), DOB non-empty, Email valid regex, Address min 5 chars. Error hone par) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 754.59 Td (OutlinedTextField red error text dikhata hai aur Firestore write nahi hota.) Tj ET
+0.95 0.96 0.98 rg 44 678.39 507.28 70 re f
+0.82 0.86 0.91 RG 0.6 w 44 678.39 507.28 70 re S
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 732.99 Td (val datePickerState = rememberDatePickerState\() Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 722.19 Td (    selectableDates = object : SelectableDates {) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 711.3900000000001 Td (        override fun isSelectableDate\(utcTimeMillis: Long\) = utcTimeMillis <= todayMillis) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 700.5900000000001 Td (    }) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 689.7900000000002 Td (\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 661.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 661.09 Td (Date Picker: Future dates disable rehti hain \(kyunki DOB future mein nahi ho sakta\). Selected UTC) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 648.09 Td (millis ko TimeZone.getTimeZone\("UTC"\) ke saath DD/MM/YYYY format mein convert karte hain taaki) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 635.09 Td (1-day timezone shift bug na aaye.) Tj ET
+0.95 0.96 0.98 rg 44 548.0899999999999 507.28 80.80000000000001 re f
+0.82 0.86 0.91 RG 0.6 w 44 548.0899999999999 507.28 80.80000000000001 re S
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 613.49 Td (val payload = mapOf\() Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 602.69 Td (    "userId" to uid, "name" to name.trim\(\), "phone" to phone.trim\(\),) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 591.8900000000001 Td (    "dob" to dob.trim\(\), "email" to email.trim\(\), "address" to address.trim\(\),) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 581.0900000000001 Td (    "createdAt" to FieldValue.serverTimestamp\(\), "updatedAt" to FieldValue.serverTimestamp\(\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 570.2900000000002 Td (\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 559.4900000000002 Td (docRef.set\(payload\).await\(\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 530.79 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 530.79 Td (Save to Firestore: db.collection\("customers"\).document\(\) unique Document ID auto-generate karta) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 517.79 Td (hai. FieldValue.serverTimestamp\(\) Google Server ka accurate time dalta hai. Poora block try/catch) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 504.7899999999999 Td (mein wrapped hai aur Result<Unit> return karta hai.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 484.5899999999999 Td (C. Screen 3 - Real-Time Listener & Add Dummy Data \(CustomerListScreen.kt / Repo\)) Tj ET
+0.95 0.96 0.98 rg 44 406.5899999999999 507.28 70 re f
+0.82 0.86 0.91 RG 0.6 w 44 406.5899999999999 507.28 70 re S
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 461.18999999999994 Td (db.collection\("customers"\).whereEqualTo\("userId", userId\).snapshots\(\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 450.38999999999993 Td (  .map { snapshot ->) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 439.5899999999999 Td (      snapshot.toObjects\(Customer::class.java, ServerTimestampBehavior.ESTIMATE\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 428.7899999999999 Td (          .sortedByDescending { it.createdAt ?: Timestamp\(0, 0\) }) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 417.9899999999999 Td (  }) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 389.2899999999999 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 389.2899999999999 Td (Real-Time Listener: .whereEqualTo\("userId", userId\) sirf logged-in owner ke records laata hai) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 376.2899999999999 Td (\(security rule ke saath match\). .snapshots\(\) live Flow deta hai - koi bhi change bina refresh) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 363.2899999999999 Td (kiye turant dikhta hai. ESTIMATE pending local timestamps ko null hone se bachata hai.) Tj ET
+0.95 0.96 0.98 rg 44 287.0899999999999 507.28 70 re f
+0.82 0.86 0.91 RG 0.6 w 44 287.0899999999999 507.28 70 re S
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 341.68999999999994 Td (val batch = db.batch\(\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 330.88999999999993 Td (SampleCustomers.defaultList.forEach { sample ->) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 320.0899999999999 Td (    batch.set\(db.collection\("customers"\).document\(\), payload\)) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 309.2899999999999 Td (}) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.4 Tf 52 298.4899999999999 Td (batch.commit\(\).await\(\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 269.7899999999999 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 269.7899999999999 Td (Add Dummy Data: db.batch\(\) ek atomic WriteBatch chalata hai jo 5 realistic Indian customers) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 256.7899999999999 Td (\(Aarav Sharma, Priya Patel, Rohan Deshmukh, Ananya Iyer, Vikram Malhotra\) ek hi atomic commit) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 243.7899999999999 Td (mein save karta hai.) Tj ET
+0.91 0.95 0.99 rg 44 207.58999999999992 507.28 24 re f
+0.075 0.376 0.729 rg 44 207.58999999999992 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 214.58999999999992 Td (6. DBMS CONCEPTS \(Viva Ka Sabse Important Section\)) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 183.58999999999992 Td (6.1 Firestore \(NoSQL Document DB\): Collection, Document & Field) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 166.08999999999992 Td (Cloud Firestore Google ka NoSQL Document-Oriented Cloud Database hai. Isme SQL ki Table ko) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 152.58999999999992 Td (Collection kehte hain \(hamare app mein: customers\), Row/Record ko Document kehte hain \(har) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 139.08999999999992 Td (customer ek document\), aur Column/Attribute ko Field kehte hain \(name, phone, dob, email, address,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 125.58999999999992 Td (userId, createdAt, updatedAt\).) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 103.58999999999992 Td (6.2 SQL vs NoSQL Comparison Table) Tj ET
+0.075 0.376 0.729 rg 44 76.58999999999992 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 76.58999999999992 507.28 19 re S
+1 1 1 rg BT /F2 8.2 Tf 49 83.38999999999992 Td (Feature) Tj ET
+0.82 0.87 0.93 RG 0.5 w 155.6016 76.58999999999992 m 155.6016 95.58999999999992 l S
+1 1 1 rg BT /F2 8.2 Tf 160.6016 83.38999999999992 Td (SQL \(Relational - MySQL/PostgreSQL\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 353.44079999999997 76.58999999999992 m 353.44079999999997 95.58999999999992 l S
+1 1 1 rg BT /F2 8.2 Tf 358.44079999999997 83.38999999999992 Td (NoSQL \(Document - Cloud Firestore\)) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 5 of 14) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 14523 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.82 0.87 0.93 RG 0.5 w 44 759.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 777.6899999999999 Td (Data Structure) Tj ET
+0.82 0.87 0.93 RG 0.5 w 155.6016 759.89 m 155.6016 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 160.6016 777.6899999999999 Td (Tables \(Fixed Rows & Columns\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 353.44079999999997 759.89 m 353.44079999999997 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 777.6899999999999 Td (Collections & JSON-like Documents) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 766.6899999999999 Td (\(Key-Value\)) Tj ET
+0.965 0.98 1.0 rg 44 740.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 740.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 747.6899999999999 Td (Schema) Tj ET
+0.82 0.87 0.93 RG 0.5 w 155.6016 740.89 m 155.6016 759.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 160.6016 747.6899999999999 Td (Rigid / Fixed \(ALTER TABLE required\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 353.44079999999997 740.89 m 353.44079999999997 759.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 747.6899999999999 Td (Flexible schema \(easy to add new fields\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 710.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 728.6899999999999 Td (Joins) Tj ET
+0.82 0.87 0.93 RG 0.5 w 155.6016 710.89 m 155.6016 740.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 160.6016 728.6899999999999 Td (Complex JOIN queries supported) Tj ET
+0.82 0.87 0.93 RG 0.5 w 353.44079999999997 710.89 m 353.44079999999997 740.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 728.6899999999999 Td (No JOINs; data is denormalized for fast) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 717.6899999999999 Td (reads) Tj ET
+0.965 0.98 1.0 rg 44 691.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 691.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 698.6899999999999 Td (Scaling) Tj ET
+0.82 0.87 0.93 RG 0.5 w 155.6016 691.89 m 155.6016 710.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 160.6016 698.6899999999999 Td (Mostly Vertical \(bigger single server\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 353.44079999999997 691.89 m 353.44079999999997 710.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 698.6899999999999 Td (Horizontal cloud auto-scaling by Google) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 672.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 679.6899999999999 Td (Real-Time Sync) Tj ET
+0.82 0.87 0.93 RG 0.5 w 155.6016 672.89 m 155.6016 691.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 160.6016 679.6899999999999 Td (Not built-in \(needs polling/WebSockets\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 353.44079999999997 672.89 m 353.44079999999997 691.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 679.6899999999999 Td (Built-in live .snapshots\(\) push listeners) Tj ET
+0.965 0.98 1.0 rg 44 653.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 653.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 660.6899999999999 Td (Best For) Tj ET
+0.82 0.87 0.93 RG 0.5 w 155.6016 653.89 m 155.6016 672.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 160.6016 660.6899999999999 Td (Banking, heavy multi-table accounting) Tj ET
+0.82 0.87 0.93 RG 0.5 w 353.44079999999997 653.89 m 353.44079999999997 672.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 358.44079999999997 660.6899999999999 Td (Mobile apps, real-time cloud directories) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 629.89 Td (6.3 "customers" Collection Structure Table \(/customers/{customerId}\)) Tj ET
+0.075 0.376 0.729 rg 44 602.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 602.89 507.28 19 re S
+1 1 1 rg BT /F2 8.2 Tf 49 609.6899999999999 Td (Field Name) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 602.89 m 135.3104 621.89 l S
+1 1 1 rg BT /F2 8.2 Tf 140.3104 609.6899999999999 Td (Data Type) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 602.89 m 206.32959999999997 621.89 l S
+1 1 1 rg BT /F2 8.2 Tf 211.32959999999997 609.6899999999999 Td (Constraint / Rule) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 602.89 m 378.8048 621.89 l S
+1 1 1 rg BT /F2 8.2 Tf 383.8048 609.6899999999999 Td (Description) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 572.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 590.6899999999999 Td (id \(Doc ID\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 572.89 m 135.3104 602.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 590.6899999999999 Td (String) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 572.89 m 206.32959999999997 602.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 590.6899999999999 Td (Auto-generated \(@DocumentId\), 1-128) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 579.6899999999999 Td (chars) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 572.89 m 378.8048 602.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 590.6899999999999 Td (Primary Key \(stored on path, not in) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 579.6899999999999 Td (body\)) Tj ET
+0.965 0.98 1.0 rg 44 542.89 507.28 30 re f
+0.82 0.87 0.93 RG 0.5 w 44 542.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 560.6899999999999 Td (userId) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 542.89 m 135.3104 572.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 560.6899999999999 Td (String) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 542.89 m 206.32959999999997 572.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 560.6899999999999 Td (Required, Immutable, ==) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 549.6899999999999 Td (request.auth.uid) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 542.89 m 378.8048 572.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 560.6899999999999 Td (Foreign Key referencing Firebase) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 549.6899999999999 Td (Auth User.uid) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 523.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 530.6899999999999 Td (name) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 523.89 m 135.3104 542.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 530.6899999999999 Td (String) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 523.89 m 206.32959999999997 542.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 530.6899999999999 Td (Required, length 2-100 chars) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 523.89 m 378.8048 542.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 530.6899999999999 Td (Customer full legal name) Tj ET
+0.965 0.98 1.0 rg 44 493.89 507.28 30 re f
+0.82 0.87 0.93 RG 0.5 w 44 493.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 511.69 Td (phone) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 493.89 m 135.3104 523.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 511.69 Td (String) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 493.89 m 206.32959999999997 523.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 511.69 Td (Required, exact 10 digits) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 500.69 Td (\(^[0-9]{10}$\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 493.89 m 378.8048 523.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 511.69 Td (Customer mobile number) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 463.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 481.69 Td (dob) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 463.89 m 135.3104 493.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 481.69 Td (String) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 463.89 m 206.32959999999997 493.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 481.69 Td (Required, DD/MM/YYYY \(8-20 chars\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 463.89 m 378.8048 493.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 481.69 Td (Date of Birth selected via calendar) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 470.69 Td (picker) Tj ET
+0.965 0.98 1.0 rg 44 433.89 507.28 30 re f
+0.82 0.87 0.93 RG 0.5 w 44 433.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 451.69 Td (email) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 433.89 m 135.3104 463.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 451.69 Td (String) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 433.89 m 206.32959999999997 463.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 451.69 Td (Required, valid email regex \(5-120) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 440.69 Td (chars\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 433.89 m 378.8048 463.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 451.69 Td (Customer email address) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 414.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 421.69 Td (address) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 414.89 m 135.3104 433.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 421.69 Td (String) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 414.89 m 206.32959999999997 433.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 421.69 Td (Required, length 5-300 chars) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 414.89 m 378.8048 433.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 421.69 Td (Customer residential address) Tj ET
+0.965 0.98 1.0 rg 44 395.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 395.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 402.69 Td (createdAt) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 395.89 m 135.3104 414.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 402.69 Td (Timestamp) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 395.89 m 206.32959999999997 414.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 402.69 Td (Required, Immutable, <= request.time) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 395.89 m 378.8048 414.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 402.69 Td (Server registration timestamp) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 376.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 383.69 Td (updatedAt) Tj ET
+0.82 0.87 0.93 RG 0.5 w 135.3104 376.89 m 135.3104 395.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 140.3104 383.69 Td (Timestamp) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.32959999999997 376.89 m 206.32959999999997 395.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.32959999999997 383.69 Td (Optional, <= request.time) Tj ET
+0.82 0.87 0.93 RG 0.5 w 378.8048 376.89 m 378.8048 395.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 383.8048 383.69 Td (Server last-modified timestamp) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 352.89 Td (6.4 Primary Key & CRUD Operations Mapped to Code) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 335.39 Td (Firestore mein Document ID hi Primary Key hoti hai. Customer.kt mein @DocumentId val id: String =) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 321.89 Td ("" lagane se Firestore read karte waqt document path ID ko customer.id mein bhar deta hai aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.5 Tf 44 308.39 Td (write karte waqt redundant 'id' field body mein nahi likhta.) Tj ET
+0.075 0.376 0.729 rg 44 281.39 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 281.39 507.28 19 re S
+1 1 1 rg BT /F2 8.2 Tf 49 288.19 Td (Operation) Tj ET
+0.82 0.87 0.93 RG 0.5 w 120.092 281.39 m 120.092 300.39 l S
+1 1 1 rg BT /F2 8.2 Tf 125.092 288.19 Td (SQL Equivalent) Tj ET
+0.82 0.87 0.93 RG 0.5 w 297.64 281.39 m 297.64 300.39 l S
+1 1 1 rg BT /F2 8.2 Tf 302.64 288.19 Td (Exact Function in CustomerRepository.kt) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 251.39 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 269.19 Td (Create \(C\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 120.092 251.39 m 120.092 281.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 125.092 269.19 Td (INSERT INTO customers ...) Tj ET
+0.82 0.87 0.93 RG 0.5 w 297.64 251.39 m 297.64 281.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 269.19 Td (addCustomer\(\) -> docRef.set\(payload\) |) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 258.19 Td (addDummyCustomers\(\) -> batch.set\(...\)) Tj ET
+0.965 0.98 1.0 rg 44 210.39 507.28 41 re f
+0.82 0.87 0.93 RG 0.5 w 44 210.39 507.28 41 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 239.19 Td (Read \(R\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 120.092 210.39 m 120.092 251.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 125.092 239.19 Td (SELECT * FROM customers WHERE userId) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 125.092 228.19 Td (= ?) Tj ET
+0.82 0.87 0.93 RG 0.5 w 297.64 210.39 m 297.64 251.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 239.19 Td (observeCustomers\(uid\) ->) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 228.19 Td (collection\("customers"\).whereEqualTo\("userId",) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 217.19 Td (uid\).snapshots\(\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 180.39 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 198.19 Td (Update \(U\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 120.092 180.39 m 120.092 210.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 125.092 198.19 Td (UPDATE customers SET ... WHERE id = ?) Tj ET
+0.82 0.87 0.93 RG 0.5 w 297.64 180.39 m 297.64 210.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 198.19 Td (updateCustomer\(\) ->) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 187.19 Td (collection\("customers"\).document\(id\).update\(mapOf\(...\)\)) Tj ET
+0.965 0.98 1.0 rg 44 150.39 507.28 30 re f
+0.82 0.87 0.93 RG 0.5 w 44 150.39 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 168.19 Td (Delete \(D\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 120.092 150.39 m 120.092 180.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 125.092 168.19 Td (DELETE FROM customers WHERE id = ?) Tj ET
+0.82 0.87 0.93 RG 0.5 w 297.64 150.39 m 297.64 180.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 168.19 Td (deleteCustomer\(\) ->) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 302.64 157.19 Td (collection\("customers"\).document\(id\).delete\(\)) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 126.38999999999999 Td (6.5 Real-Time Sync, Indexing, Normalization & ACID) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 109.08999999999999 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 109.08999999999999 Td (Real-Time Sync: Firestore gRPC persistent channel rakhta hai. .snapshots\(\) ke through server) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 96.08999999999999 Td (turant badla hua data app ko push karta hai - koi manual refresh button nahi lagta.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 80.58999999999999 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 80.58999999999999 Td (Indexing: Firestore har field par automatic single-field index banata hai, isliye) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 67.58999999999999 Td (.whereEqualTo\("userId", uid\) O\(log N\) fast chalta hai. Sorting Kotlin mein client-side ki hai) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 6 of 14) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 8302 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 780.59 Td (taaki composite index error na aaye.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 765.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 765.09 Td (Normalization Kyu Zaruri Nahi?: SQL mein redundancy rokne ke liye 1NF/2NF/3NF mein tables todte) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 752.09 Td (hain aur JOIN karte hain. Firestore mein JOIN nahi hota, isliye fast single-read performance ke) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 739.09 Td (liye saari customer details ek document mein rakhte hain \(Denormalization\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 723.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 723.59 Td (ACID & Consistency: Firestore single-document writes aur WriteBatch \(5 dummy customers\) Atomic) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 710.59 Td (aur Strongly Consistent hote hain - ya poora batch commit hoga ya poora rollback.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 690.39 Td (6.6 Firestore Security Rules \(firestore.rules\) - Har Rule Samjho) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 673.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 673.09 Td (match /{document=**} { allow read, write: if false; }: Global Default-Deny safety net: koi bhi) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 660.09 Td (unknown path by default block rehta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 644.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 644.59 Td (isSignedIn\(\): Check karta hai request.auth != null \(bina login zero access\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 629.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 629.09 Td (isValidId\(id\): Document ID 1-128 chars aur sirf alphanumeric/underscore/hyphen hona chahiye \(ID) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 616.09 Td (poisoning guard\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 600.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 600.59 Td (isValidCustomer\(data\): Server-side schema validator: userId == request.auth.uid, name 2-100,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 587.59 Td (phone exact 10 digits, email valid regex, address 5-300, createdAt/updatedAt <= request.time.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 572.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 572.09 Td (allow get / allow list: Sirf owner \(existing\(\).userId == request.auth.uid\) read/list kar sakta) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 559.09 Td (hai - PII protection.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 543.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 543.59 Td (allow create: keys\(\).hasAll\([...]\) aur keys\(\).hasOnly\([...]\) check karta hai taaki required) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 530.59 Td (fields missing na hon aur ghost fields \(e.g. isAdmin: true\) inject na hon.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 515.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 515.09 Td (allow update: isValidCustomer\(incoming\(\)\) + userId & createdAt immutable +) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 502.09 Td (affectedKeys\(\).hasOnly\(['name','phone','dob','email','address','updatedAt']\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 486.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 486.59 Td (allow delete: Sirf logged-in owner \(existing\(\).userId == request.auth.uid\) delete kar sakta hai.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 466.39 Td (6.7 ER Diagram Description \(1 : N Relationship\)) Tj ET
+0.95 0.96 0.98 rg 44 337.39 507.28 121 re f
+0.82 0.86 0.91 RG 0.6 w 44 337.39 507.28 121 re S
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 443.28999999999996 Td (+----------------------+      1      +-------------+      N      +-------------------------+) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 432.78999999999996 Td (|         USER         |------------>|  REGISTERS  |------------>|        CUSTOMER         |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 422.28999999999996 Td (|   \(Firebase Auth\)    |             +-------------+             |  \(Firestore Collection\) |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 411.78999999999996 Td (+----------------------+                                         +-------------------------+) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 401.28999999999996 Td (| PK: uid              |                                         | PK: customerId \(Doc ID\) |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 390.78999999999996 Td (|     email            |                                         | FK: userId -> User.uid  |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 380.28999999999996 Td (|     displayName      |                                         |     name, phone \(10d\)   |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 369.78999999999996 Td (+----------------------+                                         |     dob, email, address |) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 359.28999999999996 Td (                                                                 |     createdAt, updatedAt|) Tj ET
+0.10 0.16 0.28 rg BT /F3 7.1 Tf 52 348.78999999999996 Td (                                                                 +-------------------------+) Tj ET
+0.91 0.95 0.99 rg 44 299.39 507.28 24 re f
+0.075 0.376 0.729 rg 44 299.39 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 306.39 Td (7. AUTHENTICATION & SECURITY) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 280.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 280.09 Td (Google Sign-In Flow: User button tap karta hai -> CredentialManager \(GetSignInWithGoogleOption\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 267.09 Td (Google account picker kholta hai -> signed Google ID Token milta hai ->) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 254.08999999999997 Td (Firebase.auth.signInWithCredential\(\) token verify karke unique permanent uid deta hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 238.58999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 238.58999999999997 Td (userId Isolation: Har customer document mein userId = uid store hota hai. Client query) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 225.58999999999997 Td (.whereEqualTo\("userId", uid\) lagati hai aur server rules check karte hain request.auth.uid ==) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 212.58999999999997 Td (resource.data.userId. User A kabhi User B ka PII data nahi dekh sakta.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 197.08999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 197.08999999999997 Td (Auth Gating \(MainActivity.kt\): if \(user == null\) AuthScreen\(\) else key\(user.uid\) { ... }. Bina) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 184.08999999999997 Td (login ke koi ViewModel ya Firestore listener start nahi hota, aur account switch par purane) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 171.08999999999997 Td (listeners cleanly destroy ho jate hain.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 155.58999999999997 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 155.58999999999997 Td (SHA-1 Key Kyu Zaruri Hai?: SHA-1 tumhare APK ke debug keystore ki digital fingerprint hai. Google) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 142.58999999999997 Td (OAuth sign-in ke waqt verify karta hai ki request genuine registered app se aa rahi hai. Bina) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 129.58999999999997 Td (SHA-1 ke Google Sign-In security ke liye cancel ho jata hai.) Tj ET
+0.91 0.95 0.99 rg 44 93.38999999999999 507.28 24 re f
+0.075 0.376 0.729 rg 44 93.38999999999999 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 100.38999999999999 Td (8. FIREBASE SETUP KAISE HUA) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 74.08999999999999 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 74.08999999999999 Td (1. Project & Fingerprint Registration: Android package name \(com.aistudio.carrental.rvkxmp\) aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 61.08999999999999 Td (debug keystore ka SHA-1 / SHA-256 fingerprint Firebase project \(gen-lang-client-0817397218\) mein) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 7 of 14) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 14356 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 780.59 Td (register kiya gaya.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 765.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 765.09 Td (2. google-services.json Role: app/ folder mein stored ye file Gradle build ke time Google) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 752.09 Td (Services plugin \(4.5.0\) padhta hai aur automatically R.string.default_web_client_id, project ID) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 739.09 Td (aur API config generate karta hai \(hardcoding nahi karni padti\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 723.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 723.59 Td (3. Named Firestore Database: res/values/firebase_applet_config.xml mein firestore_database_id) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 710.59 Td (stored hai, jisse FirebaseFirestore.getInstance\(databaseId\) exact provisioned Enterprise database) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 697.59 Td (se connect hota hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 682.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 682.09 Td (4. Security Rules Testing & Deploy: firestore.rules ko local Firestore emulator \(port 8085\) par) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 669.09 Td (firestore.test.js ke saath test kiya gaya \(4/4 test suites passed\) aur phir live backend par) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 656.09 Td (deploy kiya gaya.) Tj ET
+0.91 0.95 0.99 rg 44 619.89 507.28 24 re f
+0.075 0.376 0.729 rg 44 619.89 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 626.89 Td (9. APP BANANE KA PROCESS \(Start Se APK & GitHub Tak\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 600.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 600.59 Td (Step 1 - Planning & Schema: 3 screens \(Login, Form, List\), 5 fields, validation rules, aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 587.59 Td (Firestore schema finalize kiya.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 572.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 572.09 Td (Step 2 - Project & Branding: Unique applicationId, app name 'Car Rental', custom blue-and-white) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 559.09 Td (Car adaptive icon, Plus Jakarta Sans & Inter fonts, aur INTERNET permission configure ki.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 543.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 543.59 Td (Step 3 - Firebase Provisioning: Firebase Auth \(Google Sign-In\) aur Cloud Firestore database) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 530.59 Td (connect karke google-services.json aur firebase_applet_config.xml generate kiye.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 515.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 515.09 Td (Step 4 - Rules & Automated Tests: firebase-blueprint.json, firestore.rules, aur firestore.test.js) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 502.09 Td (banakar emulator par verify & deploy kiya.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 486.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 486.59 Td (Step 5 - Kotlin MVVM Build: Customer, CustomerRepository, FirestoreErrorHandler, AuthManager,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 473.59 Td (CustomerViewModel, 3 Compose Screens, aur MainActivity likhi.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 458.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 458.09 Td (Step 6 - APK & GitHub Export: gradle :app:assembleDebug run karke zero-error app-debug.apk verify) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 445.09 Td (kiya; AI Studio menu se APK download, ZIP export, ya GitHub push ready kiya.) Tj ET
+0.91 0.95 0.99 rg 44 408.89 507.28 24 re f
+0.075 0.376 0.729 rg 44 408.89 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 415.89 Td (10. TESTING \(Test Cases Table\)) Tj ET
+0.075 0.376 0.729 rg 44 379.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 379.89 507.28 19 re S
+1 1 1 rg BT /F2 8.2 Tf 49 386.69 Td (ID) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 379.89 m 89.6552 398.89 l S
+1 1 1 rg BT /F2 8.2 Tf 94.6552 386.69 Td (Feature) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 379.89 m 170.82 398.89 l S
+1 1 1 rg BT /F2 8.2 Tf 175.82 386.69 Td (Input) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 379.89 m 307.7856 398.89 l S
+1 1 1 rg BT /F2 8.2 Tf 312.7856 386.69 Td (Expected Output) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 379.89 m 500.552 398.89 l S
+1 1 1 rg BT /F2 8.2 Tf 505.552 386.69 Td (Result) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 349.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 367.69 Td (TC-01) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 349.89 m 89.6552 379.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 367.69 Td (Auth Gate) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 349.89 m 170.82 379.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 367.69 Td (App open without login) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 349.89 m 307.7856 379.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 367.69 Td (AuthScreen dikhega; koi Firestore query) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 356.69 Td (nahi) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 349.89 m 500.552 379.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 367.69 Td (Pass) Tj ET
+0.965 0.98 1.0 rg 44 319.89 507.28 30 re f
+0.82 0.87 0.93 RG 0.5 w 44 319.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 337.69 Td (TC-02) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 319.89 m 89.6552 349.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 337.69 Td (Google Sign-In) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 319.89 m 170.82 349.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 337.69 Td (Valid Google account select) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 319.89 m 307.7856 349.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 337.69 Td (Firebase login success -> Form screen) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 326.69 Td (open) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 319.89 m 500.552 349.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 337.69 Td (Pass) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 300.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 307.69 Td (TC-03) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 300.89 m 89.6552 319.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 307.69 Td (Empty Form) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 300.89 m 170.82 319.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 307.69 Td (Sab blank chhodkar Submit) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 300.89 m 307.7856 319.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 307.69 Td (All 5 fields red error; DB write block) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 300.89 m 500.552 319.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 307.69 Td (Pass) Tj ET
+0.965 0.98 1.0 rg 44 281.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 281.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 288.69 Td (TC-04) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 281.89 m 89.6552 300.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 288.69 Td (Phone Length) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 281.89 m 170.82 300.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 288.69 Td (Phone = "98765" \(5 digits\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 281.89 m 307.7856 300.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 288.69 Td (Error: "Phone must be exactly 10 digits.") Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 281.89 m 500.552 300.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 288.69 Td (Pass) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 262.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 269.69 Td (TC-05) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 262.89 m 89.6552 281.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 269.69 Td (Phone Filter) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 262.89 m 170.82 281.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 269.69 Td (Type "abc98") Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 262.89 m 307.7856 281.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 269.69 Td (Sirf digits accept \(98\), max 10 counter) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 262.89 m 500.552 281.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 269.69 Td (Pass) Tj ET
+0.965 0.98 1.0 rg 44 243.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 243.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 250.69 Td (TC-06) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 243.89 m 89.6552 262.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 250.69 Td (Email Check) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 243.89 m 170.82 262.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 250.69 Td (Email = "aarav@gmail") Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 243.89 m 307.7856 262.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 250.69 Td (Error: "Enter a valid email address.") Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 243.89 m 500.552 262.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 250.69 Td (Pass) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 213.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 231.69 Td (TC-07) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 213.89 m 89.6552 243.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 231.69 Td (DOB Picker) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 213.89 m 170.82 243.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 231.69 Td (Tap DOB -> pick 14/08/1995) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 213.89 m 307.7856 243.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 231.69 Td (Future dates blocked; field shows) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 220.69 Td (14/08/1995) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 213.89 m 500.552 243.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 231.69 Td (Pass) Tj ET
+0.965 0.98 1.0 rg 44 194.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 194.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 201.69 Td (TC-08) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 194.89 m 89.6552 213.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 201.69 Td (Create Record) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 194.89 m 170.82 213.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 201.69 Td (Valid 5 fields -> Submit) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 194.89 m 307.7856 213.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 201.69 Td (Firestore save + Snackbar + List open) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 194.89 m 500.552 213.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 201.69 Td (Pass) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 164.89 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 182.69 Td (TC-09) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 164.89 m 89.6552 194.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 182.69 Td (Dummy Data) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 164.89 m 170.82 194.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 182.69 Td (Tap Add Dummy Data) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 164.89 m 307.7856 194.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 182.69 Td (5 Indian sample records batch-inserted) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 171.69 Td (live) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 164.89 m 500.552 194.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 182.69 Td (Pass) Tj ET
+0.965 0.98 1.0 rg 44 145.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 145.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 152.69 Td (TC-10) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 145.89 m 89.6552 164.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 152.69 Td (Search Bar) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 145.89 m 170.82 164.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 152.69 Td (Type "Priya" in search) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 145.89 m 307.7856 164.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 152.69 Td (Sirf Priya Patel ka card live filter hoga) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 145.89 m 500.552 164.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 152.69 Td (Pass) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 115.88999999999999 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 133.69 Td (TC-11) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 115.88999999999999 m 89.6552 145.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 133.69 Td (Edit Record) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 115.88999999999999 m 170.82 145.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 133.69 Td (Edit -> update phone ->) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 122.69 Td (Update) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 115.88999999999999 m 307.7856 145.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 133.69 Td (Firestore updated; createdAt immutable) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 115.88999999999999 m 500.552 145.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 133.69 Td (Pass) Tj ET
+0.965 0.98 1.0 rg 44 96.88999999999999 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 96.88999999999999 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 103.68999999999998 Td (TC-12) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 96.88999999999999 m 89.6552 115.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 103.68999999999998 Td (Delete Record) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 96.88999999999999 m 170.82 115.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 103.68999999999998 Td (Delete -> Confirm Dialog) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 96.88999999999999 m 307.7856 115.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 103.68999999999998 Td (Firestore se removed + UI card gone) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 96.88999999999999 m 500.552 115.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 103.68999999999998 Td (Pass) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 66.88999999999999 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 84.68999999999998 Td (TC-13) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 66.88999999999999 m 89.6552 96.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 84.68999999999998 Td (Security Rules) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 66.88999999999999 m 170.82 96.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 84.68999999999998 Td (Unauth / User B reading User) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 73.68999999999998 Td (A) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 66.88999999999999 m 307.7856 96.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 84.68999999999998 Td (PERMISSION_DENIED \(emulator tests pass\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 66.88999999999999 m 500.552 96.88999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 84.68999999999998 Td (Pass) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 8 of 14) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 7348 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.965 0.98 1.0 rg 44 770.89 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 770.89 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 777.6899999999999 Td (TC-14) Tj ET
+0.82 0.87 0.93 RG 0.5 w 89.6552 770.89 m 89.6552 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 94.6552 777.6899999999999 Td (Logout) Tj ET
+0.82 0.87 0.93 RG 0.5 w 170.82 770.89 m 170.82 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 175.82 777.6899999999999 Td (TopBar Logout -> Confirm) Tj ET
+0.82 0.87 0.93 RG 0.5 w 307.7856 770.89 m 307.7856 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 312.7856 777.6899999999999 Td (Credentials clear + signOut -> AuthScreen) Tj ET
+0.82 0.87 0.93 RG 0.5 w 500.552 770.89 m 500.552 789.89 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 505.552 777.6899999999999 Td (Pass) Tj ET
+0.91 0.95 0.99 rg 44 730.89 507.28 24 re f
+0.075 0.376 0.729 rg 44 730.89 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 737.89 Td (11. VIVA Q&A \(50 Important Questions & Simple Hinglish Answers\)) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 711.6899999999999 Td (Q1. Tumhare project ka naam aur purpose kya hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 699.29 Td (Ans: Project ka naam Car Rental Customer Registration hai. Ye ek Android app hai jo car rental) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 687.0899999999999 Td (customers ki personal aur contact details \(Name, Phone, DOB, Email, Address\) validate karke Cloud) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 674.8899999999999 Td (Firestore database mein save aur real-time manage karta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 657.4899999999998 Td (Q2. Paper register ya Excel ki jagah ye app kyu better hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 645.0899999999998 Td (Ans: Paper register ghum sakta hai aur galat phone/email rok nahi sakta. Hamara app 10-digit phone) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 632.8899999999998 Td (aur email validate karta hai, instant search deta hai, aur data Google Cloud mein safely backup rehta) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 620.6899999999997 Td (hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 603.2899999999996 Td (Q3. App mein kitni screens hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 590.8899999999996 Td (Ans: 3 main screens hain: Screen 1 \(AuthScreen\) Google Sign-In ke liye, Screen 2 \(CustomerFormScreen\)) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 578.6899999999996 Td (customer registration/editing ke liye, aur Screen 3 \(CustomerListScreen\) live customer cards aur) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 566.4899999999996 Td (search ke liye.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 549.0899999999995 Td (Q4. Minimum Android version kaunsa support karta hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 536.6899999999995 Td (Ans: minSdk = 24 \(Android 7.0 Nougat\) aur targetSdk = 36, matlab lagbhag 98%+ Android phones par) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 524.4899999999994 Td (smoothly chal jayega.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 507.0899999999994 Td (Q5. App ka theme aur UI design kaisa rakha hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 494.6899999999994 Td (Ans: Clean Car-Rental theme hai - Royal Blue \(#1360BA\) aur Crisp White \(#FFFFFF\), rounded Material 3) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 482.4899999999994 Td (cards, custom Car launcher icon, aur Plus Jakarta Sans + Inter fonts.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 465.0899999999994 Td (Q6. 'Add Dummy Data' button kyu banaya hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 452.6899999999994 Td (Ans: Demo aur testing fast karne ke liye. Ek click mein 5 realistic Indian customers \(Aarav Sharma,) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 440.4899999999994 Td (Priya Patel, Rohan Deshmukh, Ananya Iyer, Vikram Malhotra\) Firestore WriteBatch se insert ho jate) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 428.2899999999994 Td (hain.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 410.8899999999994 Td (Q7. Kya app tablet ya bade screen par bhi achha dikhta hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 398.4899999999994 Td (Ans: Haan, MainActivity.kt mein BoxWithConstraints use kiya hai - compact phone \(< 600dp\) par bottom) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 386.2899999999994 Td (NavigationBar dikhta hai aur tablet \(>= 600dp\) par side NavigationRail.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 368.8899999999994 Td (Q8. Kya customer data edit aur delete kar sakte hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 356.4899999999994 Td (Ans: Haan, full CRUD support hai. Har card par Edit icon \(form prefill karke update karta hai\) aur) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 344.2899999999994 Td (Delete icon \(AlertDialog confirmation ke baad Firestore se delete karta hai\) diya hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 326.8899999999994 Td (Q9. Search kaise kaam karta hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 314.4899999999994 Td (Ans: CustomerListScreen mein search query live Firestore list par in-memory filter lagati hai - name,) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 302.2899999999994 Td (phone, email ya address kisi se bhi turant search hota hai bina extra DB reads kharch kiye.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 284.8899999999994 Td (Q10. Internet permission kahaan di hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 272.4899999999994 Td (Ans: app/src/main/AndroidManifest.xml mein INTERNET aur ACCESS_NETWORK_STATE permissions declare ki) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 260.2899999999994 Td (hain.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 242.88999999999942 Td (Q11. DBMS kya hota hai aur tumne kaunsa DBMS use kiya?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 230.4899999999994 Td (Ans: DBMS \(Database Management System\) software hota hai jo data ko structured tarike se store,) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 218.28999999999942 Td (retrieve, update aur secure karta hai. Humne Cloud Firestore use kiya hai, jo Google ka NoSQL cloud) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 206.08999999999943 Td (DBMS hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 188.68999999999946 Td (Q12. SQL aur NoSQL mein main difference kya hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 176.28999999999945 Td (Ans: SQL relational tables \(rows/columns\) aur fixed schema use karta hai \(jaise MySQL\). NoSQL) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 164.08999999999946 Td (\(Firestore\) collections aur JSON-like documents use karta hai, schema flexible hota hai aur cloud) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 151.88999999999947 Td (scaling easy hoti hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 134.4899999999995 Td (Q13. Firestore mein Collection, Document aur Field kya hote hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 122.08999999999949 Td (Ans: Collection SQL ki table jaisa hai \(customers\), Document ek row/record jaisa hai \(ek customer\),) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 109.88999999999949 Td (aur Field ek column jaisa hai \(name, phone, dob, email, address\).) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 9 of 14) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 7427 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 780.6899999999999 Td (Q14. Tumhare database mein Primary Key aur Foreign Key kya hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 768.29 Td (Ans: Firestore ka auto-generated Document ID \(customerId\) Primary Key hai, aur har document mein) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 756.0899999999999 Td (stored userId Foreign Key ki tarah kaam karta hai jo Firebase Auth ke User.uid ko reference karta) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 743.8899999999999 Td (hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 726.4899999999998 Td (Q15. CRUD operations kya hote hain aur code mein kahaan hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 714.0899999999998 Td (Ans: CRUD matlab Create, Read, Update, Delete. CustomerRepository.kt mein: Create =) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 701.8899999999998 Td (addCustomer\(\)/addDummyCustomers\(\), Read = observeCustomers\(\), Update = updateCustomer\(\), Delete =) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 689.6899999999997 Td (deleteCustomer\(\).) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 672.2899999999996 Td (Q16. Tumne Normalization \(1NF/2NF/3NF\) kyu nahi ki?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 659.8899999999996 Td (Ans: Normalization SQL databases mein JOIN ke saath redundancy kam karne ke liye hoti hai. Firestore) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 647.6899999999996 Td (NoSQL hai jahan JOIN nahi hota, isliye fast reads ke liye customer ke saare fields ek document mein) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 635.4899999999996 Td (\(denormalized\) rakhe hain.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 618.0899999999995 Td (Q17. Data Integrity kaise maintain ki hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 605.6899999999995 Td (Ans: Do layers par: client-side CustomerViewModel + CustomerRepository validation \(10-digit phone,) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 593.4899999999994 Td (email regex, non-empty\), aur server-side firestore.rules \(isValidCustomer\) jo galat data database) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 581.2899999999994 Td (level par hi reject kar deta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 563.8899999999993 Td (Q18. FieldValue.serverTimestamp\(\) kyu use kiya, System.currentTimeMillis\(\) kyu nahi?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 551.4899999999993 Td (Ans: Phone ka local time galat ho sakta hai ya user badal sakta hai. FieldValue.serverTimestamp\(\)) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 539.2899999999993 Td (Google server ka accurate time set karta hai jo security rules \(createdAt <= request.time\) ke saath) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 527.0899999999992 Td (consistent rehta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 509.6899999999992 Td (Q19. WriteBatch kya hota hai aur ACID se kaise juda hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 497.28999999999917 Td (Ans: db.batch\(\) multiple writes ko ek Atomic unit bana deta hai \(addDummyCustomers\(\) mein 5) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 485.0899999999992 Td (documents\). Ya toh saare 5 customer ek saath save honge, ya error aane par ek bhi nahi - database) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 472.8899999999992 Td (consistent rehta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 455.4899999999992 Td (Q20. Indexing Firestore mein kaise hoti hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 443.0899999999992 Td (Ans: Firestore har field par automatically single-field index banata hai, isliye) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 430.8899999999992 Td (.whereEqualTo\('userId', uid\) fast chalta hai. Sorting client-side ki hai taaki extra composite index) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 418.6899999999992 Td (error na aaye.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 401.2899999999992 Td (Q21. Real-Time Sync kaise kaam karta hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 388.8899999999992 Td (Ans: Humne .snapshots\(\) Flow use kiya hai jo Firestore par real-time listener attach karta hai. Jab) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 376.6899999999992 Td (bhi data badalta hai, server automatically updated snapshot app ko push kar deta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 359.2899999999992 Td (Q22. Offline mein app kholein toh kya hoga?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 346.8899999999992 Td (Ans: Cloud Firestore mein local persistence cache by default on hota hai, isliye pehle se load kiye) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 334.6899999999992 Td (hue customers offline bhi dikh sakte hain aur internet aate hi sync ho jate hain.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 317.2899999999992 Td (Q23. createdAt immutable kyu rakha hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 304.8899999999992 Td (Ans: Registration time historical audit field hai. Update par sirf editable fields aur updatedAt) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 292.6899999999992 Td (badalte hain; firestore.rules enforce karta hai incoming\(\).createdAt == existing\(\).createdAt.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 275.2899999999992 Td (Q24. ER relationship kaunsi hai tumhare project mein?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 262.8899999999992 Td (Ans: One-to-Many \(1 : N\) - ek authenticated User multiple Customer documents register aur manage kar) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 250.6899999999992 Td (sakta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 233.28999999999922 Td (Q25. google-services.json kya karti hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 220.88999999999922 Td (Ans: Ye Firebase config file hai jisme project ID, package name, OAuth Web Client ID, aur SHA-1 hash) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 208.68999999999923 Td (hota hai. Gradle build ke time isse padhkar app ko Firebase backend se connect karta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 191.28999999999925 Td (Q26. Firebase BoM \(Bill of Materials\) kyu use kiya?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 178.88999999999925 Td (Ans: platform\(libs.firebase.bom\) \(version 35.1.0\) saari Firebase libraries \(firebase-auth,) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 166.68999999999926 Td (firebase-firestore\) ke compatible versions auto-manage karta hai taaki version conflict na ho.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 149.28999999999928 Td (Q27. Google Sign-In ke liye kaunsi library use hui?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 136.88999999999928 Td (Ans: Latest Jetpack Credential Manager \(androidx.credentials 1.5.0\) aur GoogleId) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 124.68999999999929 Td (\(GetSignInWithGoogleOption & GetGoogleIdOption\).) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 107.28999999999928 Td (Q28. SHA-1 key kya hoti hai aur kyu zaruri hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 94.88999999999929 Td (Ans: SHA-1 debug keystore ka unique fingerprint hai. Google OAuth verify karta hai ki sign-in request) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 82.68999999999929 Td (authorized app se aa rahi hai; bina SHA-1 ke Google Sign-In cancel ho jata hai.) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 10 of 14) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 24 0 R >>
+endobj
+26 0 obj
+<< /Length 7629 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 780.6899999999999 Td (Q29. Firestore Security Rules mein Test Mode kyu nahi rakha?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 768.29 Td (Ans: Test mode \(allow read, write: if true\) insecure hota hai - koi bhi internet se customer ke phone) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 756.0899999999999 Td (aur address chura sakta hai. Humne zero-trust owner-only rules lagaye hain.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 738.6899999999998 Td (Q30. 'Rules are not filters' ka matlab kya hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 726.2899999999998 Td (Ans: Firestore rules data ko filter nahi karte, balki query ko allow ya reject karte hain. Kyunki) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 714.0899999999998 Td (rule existing\(\).userId == request.auth.uid check karta hai, client query mein .whereEqualTo\('userId',) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 701.8899999999998 Td (uid\) lagana mandatory hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 684.4899999999997 Td (Q31. Shadow Update / Ghost Field attack kya hota hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 672.0899999999997 Td (Ans: Agar koi hacker extra unknown field \(jaise isAdmin: true\) document mein bhej de. Hamare rules) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 659.8899999999996 Td (mein keys\(\).hasOnly\([...]\) aur affectedKeys\(\).hasOnly\([...]\) aise fields ko block kar dete hain.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 642.4899999999996 Td (Q32. Auth Gating kya hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 630.0899999999996 Td (Ans: MainActivity.kt mein if \(user == null\) AuthScreen\(\) else key\(user.uid\) { ... } lagaya hai.) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 617.8899999999995 Td (Matlab bina login ke na ViewModel banta hai na Firestore listener start hota hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 600.4899999999994 Td (Q33. key\(user.uid\) kyu lagaya hai MainActivity.kt mein?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 588.0899999999995 Td (Ans: Taaki agar User A logout karke User B login kare, toh purana ViewModel aur purane Firestore) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 575.8899999999994 Td (listeners destroy ho jayein aur User B ke liye fresh state bane.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 558.4899999999993 Td (Q34. FirebaseFirestore.getInstance\(databaseId\) mein ID kyu pass ki?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 546.0899999999993 Td (Ans: Hamara cloud backend ek named Enterprise Firestore database \(R.string.firestore_database_id\)) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 533.8899999999993 Td (provision karta hai, \(default\) nahi. Isliye exact database ID pass karna zaruri hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 516.4899999999992 Td (Q35. Security rules test kaise kiye?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 504.08999999999924 Td (Ans: Local Firestore Emulator \(port 8085\) par firestore.test.js chalakar 4 automated test suites run) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 491.88999999999925 Td (kiye - unauthenticated denial, valid CRUD, cross-user isolation, aur invalid phone/email/ghost fields) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 479.68999999999926 Td (sab verify hue.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 462.2899999999993 Td (Q36. MVVM architecture kya hai aur is project mein kaise use hui?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 449.88999999999925 Td (Ans: Model \(Customer.kt, CustomerRepository.kt\), View \(AuthScreen, CustomerFormScreen,) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 437.68999999999926 Td (CustomerListScreen\), ViewModel \(CustomerViewModel.kt\). Isse UI clean rehta hai aur data logic alag) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 425.48999999999927 Td (rehta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 408.0899999999993 Td (Q37. @Keep, @IgnoreExtraProperties aur @DocumentId kyu lagaye hain Customer.kt mein?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 395.68999999999926 Td (Ans: @Keep R8 minifier ko class strip karne se rokta hai, @IgnoreExtraProperties extra fields par) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 383.48999999999927 Td (crash hone se bachata hai, aur @DocumentId document path ID ko automatically id field mein map karta) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 371.2899999999993 Td (hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 353.8899999999993 Td (Q38. Kotlin data class mein default values \(= ''\) kyu di hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 341.48999999999927 Td (Ans: Firestore ka .toObjects\(Customer::class.java\) reflection se no-argument constructor dhundta hai.) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 329.2899999999993 Td (Kotlin tabhi no-arg constructor banata hai jab har property ki default value ho.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 311.8899999999993 Td (Q39. StateFlow aur collectAsStateWithLifecycle\(\) kya karte hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 299.48999999999927 Td (Ans: StateFlow ViewModel se live data stream deta hai, aur collectAsStateWithLifecycle\(\) app) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 287.2899999999993 Td (background mein jane par collection pause kar deta hai taaki battery aur Firestore reads bachein.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 269.8899999999993 Td (Q40. Coroutines \(suspend functions\) kyu use kiye?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 257.48999999999927 Td (Ans: Network aur database calls slow hote hain. Coroutines unhe background thread par chalate hain) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 245.28999999999928 Td (taaki Android UI freeze \(ANR\) na ho.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 227.8899999999993 Td (Q41. ServerTimestampBehavior.ESTIMATE kya karta hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 215.4899999999993 Td (Ans: Naya document save hone par server confirm hone se pehle local cache mein createdAt null ho) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 203.2899999999993 Td (sakta hai. ESTIMATE local clock ka estimate dikha deta hai taaki UI crash na ho.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 185.88999999999933 Td (Q42. FirestoreErrorHandler.kt ka kya kaam hai?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 173.48999999999933 Td (Ans: Koi bhi Firestore error aane par operation type \(create/list/update/delete\), document path, aur) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 161.28999999999934 Td (user auth info JSON format mein Log.e\('FirestoreError', ...\) mein log karta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 143.88999999999936 Td (Q43. Date Picker mein future dates kaise roki hain?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 131.48999999999936 Td (Ans: Material 3 rememberDatePickerState ke SelectableDates mein utcTimeMillis <= todayMillis) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 119.28999999999937 Td (condition lagakar saari future dates disable kar di hain.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 101.88999999999936 Td (Q44. Phone number mein 10 digits se zyada type kyu nahi hota?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 89.48999999999937 Td (Ans: CustomerViewModel.onPhoneChange mein value.filter { it.isDigit\(\) }.take\(10\) lagaya hai - sirf) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 77.28999999999937 Td (digits accept hote hain aur max 10 characters par ruk jata hai.) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 11 of 14) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 26 0 R >>
+endobj
+28 0 obj
+<< /Length 7515 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 780.6899999999999 Td (Q45. Do users same time par alag phones se customers add karein toh conflict hoga?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 768.29 Td (Ans: Nahi! Har document ko Firestore unique random Document ID deta hai \(document\(\)\), aur har user) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 756.0899999999999 Td (apne userId scope mein likhta hai, isliye koi overwrite conflict nahi hota.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 738.6899999999998 Td (Q46. Form submit karte waqt internet band ho jaye toh app crash hoga?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 726.2899999999998 Td (Ans: Nahi, saare repository writes try/catch mein wrapped hain aur Result<Unit> return karte hain,) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 714.0899999999998 Td (isliye crash ki jagah user-friendly error snackbar dikhta hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 696.6899999999997 Td (Q47. Naya field jaise drivingLicenseNo add karna ho toh kahaan change karoge?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 684.2899999999997 Td (Ans: 5 jagah: \(1\) Customer.kt property, \(2\) firestore.rules isValidCustomer & hasOnly, \(3\)) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 672.0899999999997 Td (CustomerRepository.kt payload, \(4\) CustomerViewModel.kt state & validation, \(5\) Form & List screens) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 659.8899999999996 Td (UI.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 642.4899999999996 Td (Q48. Email/Password ki jagah Google Sign-In kyu use kiya?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 630.0899999999996 Td (Ans: Google Sign-In password leak aur weak passwords ka risk khatam karta hai, 1-tap fast login deta) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 617.8899999999995 Td (hai via Credential Manager, aur hamare provisioned Firebase backend ke saath securely configured hai.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 600.4899999999994 Td (Q49. Ye project kisne banaya? Tumne khud kya kiya?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 588.0899999999995 Td (Ans: Problem definition, DBMS schema design \(customers fields, constraints, 1:N ER model\), UI/UX) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 575.8899999999994 Td (requirements, manual testing \(all 14 test cases\), aur documentation maine kiya; coding accelerate) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 563.6899999999994 Td (karne ke liye AI coding assistant ki help li.) Tj ET
+0.075 0.30 0.60 rg BT /F2 9.2 Tf 44 546.2899999999993 Td (Q50. Is app ko real car rental shop mein launch karne ke liye kya aur chahiye?) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 533.8899999999993 Td (Ans: Vehicle fleet collection \(vehicles\), booking/rental history collection \(bookings linked to) Tj ET
+0.14 0.18 0.24 rg BT /F1 9.0 Tf 52 521.6899999999993 Td (customerId\), Driving License photo upload \(Firebase Storage\), aur PDF invoice generation.) Tj ET
+0.91 0.95 0.99 rg 44 483.4899999999992 507.28 24 re f
+0.075 0.376 0.729 rg 44 483.4899999999992 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 490.4899999999992 Td (12. HONEST ANSWERS \(Agar Examiner Puche 'AI Se Banaya Kya?'\)) Tj ET
+0.95 0.97 1.0 rg 44 339.4899999999992 507.28 134 re f
+0.78 0.87 0.96 RG 0.8 w 44 339.4899999999992 507.28 134 re S
+0.075 0.376 0.729 rg BT /F2 9.8 Tf 56 457.4899999999992 Td (Confident & Honest Answer \(Jhoot Mat Bolna - Honesty + Clarity = Full Marks!\)) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 442.4899999999992 Td ("Yes Sir/Ma'am, main coding mein beginner hu, isliye maine Kotlin aur Jetpack Compose code) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 429.4899999999992 Td (likhne ke liye AI development assistant ko as a coding tool use kiya - jaise industry mein) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 416.4899999999992 Td (developers Copilot/AI tools use karte hain. Lekin project ka requirement design, DBMS schema) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 403.4899999999992 Td (\(customers collection ke fields, data types, validation constraints\), 1:N ER relationship,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 390.4899999999992 Td (security rules ka logic, manual testing \(saare 14 test cases verify karna\), aur live) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 377.4899999999992 Td (APK/Firebase workflow maine khud plan, test aur samjha hai. Aap project ke kisi bhi module,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 364.4899999999992 Td (database structure, ya security rule ke baare mein puch sakte hain, main explain kar sakta/sakti) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 56 351.4899999999992 Td (hu.") Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 315.4899999999992 Td (Apna Real Contribution Kya Bata Sakte Ho:) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 298.1899999999992 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 298.1899999999992 Td (1. Domain & Requirements: Car Rental problem statement aur 3-screen workflow finalize kiya.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 282.6899999999992 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 282.6899999999992 Td (2. DBMS Schema Design: customers collection fields, data types, 10-digit phone & email regex) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 269.6899999999992 Td (constraints, aur 1:N ER model design kiya.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 254.1899999999992 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 254.1899999999992 Td (3. UI/UX Decisions: Blue-and-White car rental theme, Date Picker, Indian dummy data seeding) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 241.1899999999992 Td (button, aur search/edit/delete flows decide kiye.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 225.6899999999992 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 225.6899999999992 Td (4. Testing & Documentation: Har edge case test kiya \(blank form, 5-digit phone, invalid email,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 212.6899999999992 Td (CRUD, logout\) aur report + viva slides taiyar kiye.) Tj ET
+0.91 0.95 0.99 rg 44 176.4899999999992 507.28 24 re f
+0.075 0.376 0.729 rg 44 176.4899999999992 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 183.4899999999992 Td (13. LIMITATIONS & FUTURE SCOPE) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 152.4899999999992 Td (Limitations \(Aaj Ki Kamiyan\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 135.1899999999992 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 135.1899999999992 Td (Internet Dependency: Initial Google Sign-In aur live cloud sync ke liye active internet) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 122.18999999999922 Td (connection chahiye.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 106.68999999999922 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 106.68999999999922 Td (Single Module Focus: Abhi sirf Customer Registration & Directory hai; vehicle fleet inventory aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 93.68999999999922 Td (billing nahi hai.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 78.18999999999922 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 78.18999999999922 Td (Text-Only Profiles: Driving license ya Aadhaar card photo upload \(Firebase Storage\) abhi) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 65.18999999999922 Td (integrated nahi hai.) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 12 of 14) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 28 0 R >>
+endobj
+30 0 obj
+<< /Length 8500 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 780.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 780.59 Td (Free Tier Limits: Firebase Spark plan par daily read/write quotas hote hain \(college demo aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 767.59 Td (chhoti shops ke liye sufficient\).) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 747.39 Td (Future Scope \(Aage Kya Add Ho Sakta Hai\)) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 730.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 730.09 Td (Vehicles & Bookings Collections: vehicles aur bookings collections banakar customerId se link) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 717.09 Td (karna \(pickup/return date, rent calculation\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 701.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 701.59 Td (Driving License OCR Scan: CameraX + ML Kit text recognition se license scan karke Name, DOB, aur) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 688.59 Td (Address auto-fill karna.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 673.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 673.09 Td (PDF Agreements & CSV Export: Customer directory ko Excel/CSV mein export karna aur printable PDF) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 660.09 Td (rental receipts banana.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 644.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 644.59 Td (Analytics & Notifications: Monthly customer growth charts aur Cloud Functions se WhatsApp/Email) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 631.59 Td (booking alerts bhejna.) Tj ET
+0.91 0.95 0.99 rg 44 595.39 507.28 24 re f
+0.075 0.376 0.729 rg 44 595.39 4 24 re f
+0.075 0.376 0.729 rg BT /F2 12 Tf 56 602.39 Td (14. QUICK REVISION \(Exam Se 5 Minute Pehle Padh Lena!\)) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 571.39 Td (1-Page Cheat Sheet) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 554.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 554.09 Td (App Identity: Name: Car Rental | applicationId: com.aistudio.carrental.rvkxmp | namespace:) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 541.09 Td (com.example | minSdk: 24 | targetSdk: 36.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 525.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 525.59 Td (Tech Stack: Kotlin + Jetpack Compose \(Material 3\) + Navigation Compose + MVVM) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 512.59 Td (\(ViewModel/StateFlow\) + Firebase Auth \(Google Sign-In via Credential Manager\) + Cloud Firestore.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 497.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 497.09 Td (Database: Cloud Firestore \(NoSQL Document DB\) -> Collection: customers -> Path:) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 484.09 Td (/customers/{customerId}.) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 468.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 468.59 Td (Fields \(8 + Doc ID\): id \(@DocumentId PK\), userId \(FK immutable\), name, phone \(10 digits\), dob) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 455.59 Td (\(DD/MM/YYYY\), email, address, createdAt \(server timestamp immutable\), updatedAt \(server) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 442.59 Td (timestamp\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 427.09 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 427.09 Td (3 Screens: AuthScreen \(Login\) -> CustomerFormScreen \(Register/Edit + DatePicker\) ->) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 414.09 Td (CustomerListScreen \(Live Cards + Search + Add Dummy Data 5 Indian records + Edit/Delete\).) Tj ET
+0.075 0.376 0.729 rg BT /F2 9.5 Tf 48 398.59 Td (-) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 398.59 Td (Security Rules: firestore.rules: Global default-deny, isSignedIn\(\), owner-only \(userId ==) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.3 Tf 58 385.59 Td (request.auth.uid\), isValidCustomer\(\), ghost-field block \(hasOnly\).) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 365.39 Td (Important Terms Glossary) Tj ET
+0.075 0.376 0.729 rg 44 338.39 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 338.39 507.28 19 re S
+1 1 1 rg BT /F2 8.2 Tf 49 345.19 Td (Term) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 338.39 m 206.3296 357.39 l S
+1 1 1 rg BT /F2 8.2 Tf 211.3296 345.19 Td (Simple Meaning) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 319.39 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 326.19 Td (Collection) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 319.39 m 206.3296 338.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 326.19 Td (Firestore mein documents ka folder \(SQL table jaisa\) -> 'customers'.) Tj ET
+0.965 0.98 1.0 rg 44 300.39 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 300.39 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 307.19 Td (Document) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 300.39 m 206.3296 319.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 307.19 Td (Ek single customer record \(key-value fields ka set\).) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 281.39 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 288.19 Td (Snapshot Listener \(.snapshots\(\)\)) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 281.39 m 206.3296 300.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 288.19 Td (Real-time stream jo database badalte hi UI auto-update karta hai.) Tj ET
+0.965 0.98 1.0 rg 44 251.39 507.28 30 re f
+0.82 0.87 0.93 RG 0.5 w 44 251.39 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 269.19 Td (MVVM) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 251.39 m 206.3296 281.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 269.19 Td (Model-View-ViewModel pattern jo UI aur database logic ko clean alag rakhta) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 258.19 Td (hai.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 232.39 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 239.19 Td (Credential Manager) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 232.39 m 206.3296 251.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 239.19 Td (Android ka latest official Google Sign-In API.) Tj ET
+0.965 0.98 1.0 rg 44 202.39 507.28 30 re f
+0.82 0.87 0.93 RG 0.5 w 44 202.39 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 220.19 Td (Server Timestamp) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 202.39 m 206.3296 232.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 220.19 Td (FieldValue.serverTimestamp\(\) - Google server ka time, device clock par) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 209.19 Td (depend nahi.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 172.39 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 190.19 Td (WriteBatch) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 172.39 m 206.3296 202.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 190.19 Td (Multiple Firestore writes ko ek atomic operation mein commit karna \(5 dummy) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 179.19 Td (records\).) Tj ET
+0.965 0.98 1.0 rg 44 153.39 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 153.39 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 160.19 Td (Zero-Trust Security Rules) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 153.39 m 206.3296 172.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 160.19 Td (By default sab block, sirf verified owner + valid schema allow.) Tj ET
+0.82 0.87 0.93 RG 0.5 w 44 123.38999999999999 507.28 30 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 141.19 Td (Firebase BoM) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 123.38999999999999 m 206.3296 153.39 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 141.19 Td (Ek parent version \(35.1.0\) jo saari Firebase libraries ke versions sync) Tj ET
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 130.19 Td (rakhta hai.) Tj ET
+0.965 0.98 1.0 rg 44 104.38999999999999 507.28 19 re f
+0.82 0.87 0.93 RG 0.5 w 44 104.38999999999999 507.28 19 re S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 49 111.18999999999998 Td (SHA-1 Fingerprint) Tj ET
+0.82 0.87 0.93 RG 0.5 w 206.3296 104.38999999999999 m 206.3296 123.38999999999999 l S
+0.12 0.16 0.22 rg BT /F1 8.2 Tf 211.3296 111.18999999999998 Td (APK debug keystore ka hash jo Google Sign-In verification ke liye chahiye.) Tj ET
+0.08 0.25 0.48 rg BT /F2 10.5 Tf 44 80.38999999999999 Td (Exam Se Pehle Yaad Karne Wali 15 Golden Points) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 63.18999999999998 Td (1. Firestore ek NoSQL Document-Oriented cloud database hai \(SQL relational nahi\).) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 13 of 14) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 30 0 R >>
+endobj
+32 0 obj
+<< /Length 2839 >>
+stream
+0.45 0.52 0.62 rg BT /F1 8 Tf 44 813.89 Td (Car Rental Customer Registration - DBMS PBL Viva & Presentation Study Guide) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 807.89 m 551.28 807.89 l S
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 780.6899999999999 Td (2. Collection naam = 'customers', Primary Key = Document ID \(@DocumentId\), Foreign Key = 'userId'.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 765.1899999999999 Td (3. ER Relationship = 1 : N \(1 authenticated User -> Many Customer documents\).) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 749.6899999999999 Td (4. Saare CRUD functions CustomerRepository.kt mein hain \(addCustomer, observeCustomers,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 736.6899999999999 Td (updateCustomer, deleteCustomer, addDummyCustomers\).) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 721.1899999999999 Td (5. Validation 2 layers par hoti hai: client UI/ViewModel mein AND server par firestore.rules mein.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 705.6899999999999 Td (6. Phone number regex = ^[0-9]{10}$ \(sirf exact 10 numeric digits\).) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 690.1899999999999 Td (7. DOB ke liye Material 3 DatePickerDialog use hua hai jo future dates block karta hai.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 674.6899999999999 Td (8. Real-time Customer List .snapshots\(\) Flow se chalti hai - refresh button ki zaroorat nahi.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 659.1899999999999 Td (9. 'Add Dummy Data' button Firestore WriteBatch \(atomic\) se 5 Indian customers insert karta hai.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 643.6899999999999 Td (10. FieldValue.serverTimestamp\(\) server time dalta hai aur createdAt update par immutable rehta hai.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 628.1899999999999 Td (11. Auth Gating \(MainActivity.kt\): Bina login ke ViewModel aur Firestore listener start nahi hote.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 612.6899999999999 Td (12. 'Rules are not filters': Client query mein .whereEqualTo\('userId', uid\) lagana mandatory hai.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 597.1899999999999 Td (13. google-services.json app/ folder mein hoti hai aur app ko Firebase project se connect karti hai.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 581.6899999999999 Td (14. AndroidManifest.xml mein INTERNET permission mandatory hai Firebase ke liye.) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 566.1899999999999 Td (15. AI use par honestly bolna: coding assistant ki help li, par schema, validation, security logic,) Tj ET
+0.12 0.16 0.22 rg BT /F1 9.2 Tf 44 553.1899999999999 Td (testing aur report maine khud plan aur verify kiya hai!) Tj ET
+0.85 0.90 0.96 RG 0.6 w 44 36 m 551.28 36 l S
+0.45 0.52 0.62 rg BT /F1 8.5 Tf 44 22 Td (Car Rental Customer Registration - DBMS PBL Study Guide) Tj ET
+0.45 0.52 0.62 rg BT /F2 8.5 Tf 496.28 22 Td (Page 14 of 14) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 32 0 R >>
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000212 00000 n 
+0000000282 00000 n 
+0000000357 00000 n 
+0000000425 00000 n 
+0000008043 00000 n 
+0000008195 00000 n 
+0000020474 00000 n 
+0000020626 00000 n 
+0000028019 00000 n 
+0000028173 00000 n 
+0000035550 00000 n 
+0000035704 00000 n 
+0000043026 00000 n 
+0000043180 00000 n 
+0000057757 00000 n 
+0000057911 00000 n 
+0000066266 00000 n 
+0000066420 00000 n 
+0000080830 00000 n 
+0000080984 00000 n 
+0000088385 00000 n 
+0000088539 00000 n 
+0000096019 00000 n 
+0000096173 00000 n 
+0000103855 00000 n 
+0000104009 00000 n 
+0000111577 00000 n 
+0000111731 00000 n 
+0000120284 00000 n 
+0000120438 00000 n 
+0000123330 00000 n 
+trailer
+<< /Size 34 /Root 1 0 R >>
+startxref
+123484
+%%EOF
